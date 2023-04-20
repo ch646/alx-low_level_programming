@@ -2,7 +2,7 @@
 /**
  * main-start point
  *
- * return:always 0(correct)
+ * return:always 0 (correct)
  */
 int main(void)
 {
