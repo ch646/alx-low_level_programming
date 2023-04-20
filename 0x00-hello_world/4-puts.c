@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main function
+ * main-Start
  *
  * Return:always 0
  */
