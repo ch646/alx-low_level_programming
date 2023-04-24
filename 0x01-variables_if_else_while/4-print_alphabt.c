@@ -1,21 +1,19 @@
 #include<stdio.h>
 
 /**
+ *main-prints all letters in lowercase except q and e.
  *
- *
- *
+ *Return: Always 0 (success)
  */
 int maain(void)
 {
 	char x;
 
 	for (x = 'a'; x <= 'z'; ++x)
-	{
-		if (x != 'q' && x != 'e')
-	}
-	{
+		if (x != 'q' && x != 'e')}
+{
 	putchar(x);
 }
-	putchar("\n);
+	putchar("\n");
 	return (0);
 }
