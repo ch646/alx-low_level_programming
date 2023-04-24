@@ -4,7 +4,7 @@
 
 /**
  *
- * main -prints if the last digit of a number is greater than 5,if is a 0 or is less than 6 and not 0
+ * main -prints the last digit of a random number and if it is greater than 5,less than 6 or 0.
  *
  * Return: Always 0 (success)
  */
