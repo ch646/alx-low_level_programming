@@ -1,7 +1,7 @@
 #include "main.h"
 	/**
-	 * mainEntry point
-	 * Description: "prints _putchar to stdout"
+	 * main - print _putchar
+	 * is written by bobo
 	 * Return: 0
 	 */
 
