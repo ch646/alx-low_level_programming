@@ -1,12 +1,12 @@
 #include "main.h"
 	/**
 	 * main - print _putchar
-	 * is written by mbah
+	 * is written by bobo
 	 * Return: 0
 	 */
 
 
-	int main(void)
+	int putchar(char)
 	{
 	_putchar('_');
 	_putchar('p');
