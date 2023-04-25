@@ -2,7 +2,8 @@
 
 	/**
 	 * main - print _putchar
-	 *Description: prints _putchar
+	 *Description: 'program description'
+	 *	prints _putchar
 	 * Return: 0
 	 */
 
