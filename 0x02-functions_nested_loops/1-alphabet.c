@@ -2,7 +2,7 @@
 
 
 	/**
-	 *Description: print _alphabet - print all alphabet in lowercase
+	 *Description: print _alphabet in lowercase.
 	 */
 
 
