@@ -1,9 +1,8 @@
-#include "main.h
-
+#include "main.h"
 	/**
-	 *main -Entry point
-	 *Description: prints _putchar
-	 *Return: 0
+	 * main - print _putchar
+	 * 
+	 * Return: 0
 	 */
 
 
