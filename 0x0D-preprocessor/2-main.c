@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /*
- * main- Entry point
+ *main - prints name of the file compiled from
  *
  * Return: 0 Always success
  *
